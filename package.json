@@ -1,0 +1,21 @@
+{
+  "name": "sl-messengerbot",
+  "version": "1.0.0",
+  "description": "A bot for facebook messenger that will reply to a user with information regarding a specific station or give a suggestion on a route to take to a desitination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Victor Ode",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "lodash.groupby": "^4.6.0",
+    "lodash.mapvalues": "^4.6.0",
+    "mongoose": "^4.10.4",
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "appSecret": "23ef6cb04af3bb3c766b64e02b572797",
+  "pageAccessToken": "EAAJfWn2qB9UBACpZCfjbZASOo87JdSdC5o98TwY3WgJtW9RC86ZC4PW3cWDBmt4XI3VG8BRz3vKtHEmaMcKE4ZBZBdSZC07ZAqWyABZCZBVYpKXu5vn58EUQHV24rZCFbZBR13059ZBoTGjMp0qcuHqC5PClO4dBeQFzsNKcPOdpOdTDYgZDZD",
+  "validationToken": "SL_Token",
+  "serverURL": "nn",
+  "port": 8000,
+  "API-keys": {
+    "SL-NH": "a6d9b33d4a4b45fc9488ec91dfda2da7",
+    "SL-P": "d2f24e7922324728951a963535bdf036",
+    "SL-Real": "24477af7ab4442efbcfbb1138f4f9a15",
+    "SL-Plan": "7788d211b1dc443a8e95f75bf6c2f976"
+  }
+}
