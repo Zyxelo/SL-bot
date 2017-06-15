@@ -1,0 +1,21 @@
+{
+  "appSecret": "23ef6cb04af3bb3c766b64e02b572797",
+  "pageAccessToken": "EAAJfWn2qB9UBACpZCfjbZASOo87JdSdC5o98TwY3WgJtW9RC86ZC4PW3cWDBmt4XI3VG8BRz3vKtHEmaMcKE4ZBZBdSZC07ZAqWyABZCZBVYpKXu5vn58EUQHV24rZCFbZBR13059ZBoTGjMp0qcuHqC5PClO4dBeQFzsNKcPOdpOdTDYgZDZD",
+  "validationToken": "SL_Token",
+  "serverURL": "nn",
+  "port": 8000,
+  "API-keys": {
+    "SL-NH": "a6d9b33d4a4b45fc9488ec91dfda2da7",
+    "SL-P": "d2f24e7922324728951a963535bdf036",
+    "SL-Real": "24477af7ab4442efbcfbb1138f4f9a15",
+    "SL-Plan": "7788d211b1dc443a8e95f75bf6c2f976"
+  },
+  "Picture-Links" : {
+    "Ships" : "http://wcdn2.dataknet.com/static/resources/icons/set73/b28dcb3d.png",
+    "Trains" : "http://icons.iconarchive.com/icons/icons8/android/512/Transport-Train-icon.png",
+    "Trams": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Uk_tram_icon.png",
+    "Metros": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MBTA.svg/500px-MBTA.svg.png",
+    "Buses" : "https://image.freepik.com/free-icon/bus-front_318-33490.jpg",
+    "Map": "http://68.media.tumblr.com/92931c0b63c521236a0148a67cb0a1be/tumblr_nlh1sj5t5a1r54c4oo2_1280.jpg"
+  }
+}

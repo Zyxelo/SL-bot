@@ -96,5 +96,5 @@ module.exports.findStationID = findStationID;
 module.exports.getInfoStation = getInfoStation;
 module.exports.getInfoByName = getInfoByName;
 
-findStationID('Fridhemsplan (Stockholm)', (hej) => console.log(hej));
+findStationID('Solna', (hej) => console.log(hej));
 //getInfoStation('9192', (hej) => console.log(hej) );
